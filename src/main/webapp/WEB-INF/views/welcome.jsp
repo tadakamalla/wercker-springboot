@@ -50,7 +50,7 @@
   <div class="container serviceContainer" style="margin-top: 150px;">
     <div class="overviewLayout">
       <div>
-              <br>SpringBoot application demo for:  Aravind - Cloud Specialist</br>
+              <br>SpringBoot application demo for:  Aravind Tadakamalla - Cloud Specialist</br>
               <br>
               <br>Current server time: <%= new java.util.Date() %> <br>
               <br>
